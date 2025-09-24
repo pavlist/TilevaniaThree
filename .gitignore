@@ -1,0 +1,36 @@
+# === UNITY CORE ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Ss]ysinfo/
+[Uu]ser[Ss]ettings/
+Assets/StreamingAssets/aa/*
+*.pidb
+*.mdb
+*.pdb
+
+# === UNITY CACHE / LOCAL ===
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# === OS / IDE JUNK ===
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.iml
+
+# === CRASH / DIAGNOSTICS ===
+*.stacktrace
+
+# === PACKAGES LOCK (залишаємо tracked; за потреби можна ігнорити)
+# Packages/packages-lock.json
